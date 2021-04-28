@@ -1,0 +1,23 @@
+day 1
+I have finally started and decided to do the whole thing in one powershell script
+nevermind apperently sql in powershell is a little dumb
+I then started a python script instead.
+
+Day 2
+multiple problems have arisen mainly due to python sucking at everything forcing me to import like 50 things.
+also http cannot download pictures in a url so I needed to import urllib, also urllib causes issues with sqlite
+os needed to be imported for obivous reasons mainly to make a directory to put the images in.
+but also to make paths work.
+
+Day 3
+toady I pet my dog and added a thingy to check to see if the connection was successful.
+made very litte progress.
+
+Day 4
+Countinued with the DB updates and insert statements
+had a few problems locating the files but that was mainly logical errors.
+imported time to get the current time and spent like 30mins trying to format it nicely
+
+Day 5 
+finally rounded out the code and created the final powershell script.
+added the comments
